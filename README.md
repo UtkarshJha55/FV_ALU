@@ -3,7 +3,7 @@
 This project focusses on a demonstration of debugging a ALU design using Formal Verification, which takes various inputs and produce outputs accordingly
 
 ## Proposed design
-<img src="alu_design.png" alt="ALU Design" width="300" height="300"/>
+<img src="alu_design.png" alt="ALU Design" width="400" height="300"/>
 
 ## Work done
 * Designed specification file required for formal verification of ALU comprising of operations like AND, OR, ADD, SUB and MUL in C++.
